@@ -132,6 +132,7 @@ void * popCurrent(List * list) {
             list->head = list->head->next;
             list->current = list->head;
         }
+        list->head->prev = NULL;
     }
     else
     {
