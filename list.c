@@ -90,6 +90,7 @@ void pushCurrent(List * list, void * data) {
     if (der == NULL)
     {
         nuevo->next = NULL;
+        list->tail = nuevo;
     }
     else
     {
