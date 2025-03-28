@@ -112,3 +112,9 @@ Thu, Mar 27, 2025  7:23:04 PM:
  tests:  11|1
 total_score: 55/70
 dcc19da
+Thu, Mar 27, 2025 10:10:40 PM: 
+ list.c | 26 +++++++++++---------------
+ 1 file changed, 11 insertions(+), 15 deletions(-)
+ tests:  12|0
+total_score: 70/70
+858c620
